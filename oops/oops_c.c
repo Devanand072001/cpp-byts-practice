@@ -11,6 +11,7 @@ typedef struct employee emp;
 emp get_data()
 {   
     emp t;
+    
     printf("Enter id: \n");
     scanf("%d", &t.id);
 
