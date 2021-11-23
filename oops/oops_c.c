@@ -20,6 +20,7 @@ emp get_data()
 
     printf("Enter sal: \n");
     scanf("%d", &t.sal);
+    return t;
 }
 // void show_data(emp obj)
 // {
